@@ -49,7 +49,7 @@ You can configure various parameters of the live object detection system by modi
 
 ## Demo
 
-To see the live object detection system in action with YOLOv4 and voice output, check out this [demo video](https://youtu.be/F94v10Vhj1g).
+To see the live object detection system in action with YOLOv4 and voice output, check out this [demo video](https://drive.google.com/file/d/10unDh5dgEp2L9yZFTPSYElqg-ZXAyTBG/view?usp=drivesdk).
 
 ## Contributing
 
